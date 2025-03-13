@@ -30,7 +30,7 @@
       </div>
       <div class="lg:w-[48%] h-auto p-[50px]">
         <div class="w-full h-full flex items-center justify-center">
-          <img src="/src/assets/images/pngwing.com (7).png" alt="" class=" w-full h-full object-cover">
+          <img src="/src/assets/images/pngwing.com-_7_.webp" alt="" class=" w-full h-full object-cover">
         </div>
       </div>
 
