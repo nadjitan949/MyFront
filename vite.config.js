@@ -27,6 +27,9 @@ export default defineConfig({
       }
     },
     port: process.env.PORT || 5173,
-    host: '0.0.0.0'
+    host: '0.0.0.0',
+    allowedHosts: [
+      'benjamainboutique.onrender.com', // Ajoute ton domaine ici
+    ],
   }
 })
