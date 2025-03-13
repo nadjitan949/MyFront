@@ -285,35 +285,37 @@ export default {
           if (response.ok) {
             // Supprimez le produit de la liste côté frontend
             this.products = this.products.filter(product => product.id !== id);
-            Swal.fire({
-              title: "Suppression !",
-              text: `"${produit.nom}" a été supprimé avec succès.`,
-              icon: "success",
-              timer: 2000,
-              showConfirmButton: false
-            });
+            alert('Produits suppimé !')
+            // Swal.fire({
+            //   title: "Suppression !",
+            //   text: `"${produit.nom}" a été supprimé avec succès.`,
+            //   icon: "success",
+            //   timer: 2000,
+            //   showConfirmButton: false
+            // });
             this.isLoading = false
           } else {
             const errorData = await response.json();
             console.error('Erreur serveur:', errorData);
-            Swal.fire({
-              title: "Erreur !",
-              text: `Erreur l'or de la suppression du produit.`,
-              icon: "success",
-              timer: 2000,
-              showConfirmButton: false
-            });
+            alert("Une erreur s'est produite !")
+            // Swal.fire({
+            //   title: "Erreur !",
+            //   text: `Erreur l'or de la suppression du produit.`,
+            //   icon: "success",
+            //   timer: 2000,
+            //   showConfirmButton: false
+            // });
             this.isLoading = false
           }
         } catch (error) {
           console.error('Erreur réseau:', error);
-          Swal.fire({
-              title: "Erreur !",
-              text: `Erreur reseau`,
-              icon: "success",
-              timer: 2000,
-              showConfirmButton: false
-            });
+          // Swal.fire({
+          //     title: "Erreur !",
+          //     text: `Erreur reseau`,
+          //     icon: "success",
+          //     timer: 2000,
+          //     showConfirmButton: false
+          //   });
             this.isLoading = false
         }
       }
