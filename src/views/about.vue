@@ -24,7 +24,7 @@
           <div class=" w-full h-full bg-[#1d92ff36] rounded-[20px] transf1 ">
 
             <div class=" w-full h-full bg-[#ff1d8e2f] rounded-[20px] transf2">
-              <img src="/src/assets/images/authentic-small-youthful-marketing-agency.jpg" alt="Atelier de confection"
+              <img src="/src/assets/images/authentic-small-youthful-marketing-agency.webp" alt="Atelier de confection"
                 class="rounded-2xl shadow-lg hover:scale-105 transition-transform transf3">
             </div>
 
@@ -107,9 +107,9 @@ export default {
   data() {
     return {
       team: [
-        { name: 'Lucas Dubois', role: 'Fondatrice & Directrice Créative', image: '/src/assets/images/handsome-adult-male-posing.jpg' },
-        { name: 'Sophie Martin', role: 'Chef de Produit', image: '/src/assets/images/happy-friendly-legal-expert-posing-outside.jpg' },
-        { name: 'Pierre Henry', role: 'Responsable Approvisionnement', image: '/src/assets/images/friendly-ceo-desk.jpg' }
+        { name: 'Lucas Dubois', role: 'Fondatrice & Directrice Créative', image: '/src/assets/images/front-view-sensitive-man-crying_1.webp' },
+        { name: 'Sophie Martin', role: 'Chef de Produit', image: '/src/assets/images/happy-friendly-legal-expert-posing-outside_1.webp' },
+        { name: 'Pierre Henry', role: 'Responsable Approvisionnement', image: '/src/assets/images/handsome-adult-male-posing_1.webp' }
       ],
       coreValues: [
         {
