@@ -13,7 +13,7 @@
 
       <div class=" lg:w-[48%] h-full p-[50px] lg:p-[30px]">
         <div class="w-full py-[50px] lg:py-[100px]">
-          <span class=" font-bold text-[30px] md:text-[45px] xl:text-[55px]">Victoria kem's, Une chocolaté bien mielleuse et je m'excuse de l'avoir laissée tomber durant ce projet !!!</span>
+          <span class=" font-bold text-[30px] md:text-[45px] xl:text-[55px]">Soyez tendance, soyez vous même, à prix irrésistibles !</span>
         </div>
         <div class="xl:pr-[100px] text-gray-500">
           <p>Explorez notre nouvelle collection de vêtements, conçue pour allier confort, qualité et style. Que vous
@@ -30,7 +30,7 @@
       </div>
       <div class="lg:w-[48%] h-auto p-[50px]">
         <div class="w-full h-full flex items-center justify-center">
-          <img src="/src/assets/images/WhatsApp Image 2024-12-16 à 11.38.51_60a2ccb3.jpg" alt="" class=" w-full h-full object-cover">
+          <img src="/src/assets/images/pngwing.com-_7_.webp" alt="" class=" w-full h-full object-cover">
         </div>
       </div>
 
