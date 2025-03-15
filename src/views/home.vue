@@ -13,7 +13,7 @@
 
       <div class=" lg:w-[48%] h-full p-[50px] lg:p-[30px]">
         <div class="w-full py-[50px] lg:py-[100px]">
-          <span class=" font-bold text-[30px] md:text-[45px] xl:text-[55px]">Soyez tendance, soyez vous même, à prix irrésistibles !</span>
+          <span class=" font-bold text-[30px] md:text-[45px] xl:text-[55px]">Victoria kem's, Une chocolaté bien mielleuse et je m'excuse de l'avoir laissée tomber durant ce projet !!!</span>
         </div>
         <div class="xl:pr-[100px] text-gray-500">
           <p>Explorez notre nouvelle collection de vêtements, conçue pour allier confort, qualité et style. Que vous
