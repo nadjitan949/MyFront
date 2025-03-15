@@ -30,7 +30,7 @@
       </div>
       <div class="lg:w-[48%] h-auto p-[50px]">
         <div class="w-full h-full flex items-center justify-center">
-          <img src="/src/assets/images/pngwing.com-_7_.webp" alt="" class=" w-full h-full object-cover">
+          <img src="/src/assets/images/WhatsApp Image 2024-12-16 à 11.38.51_60a2ccb3.jpg" alt="" class=" w-full h-full object-cover">
         </div>
       </div>
 
